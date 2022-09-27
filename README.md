@@ -1,1 +1,1 @@
-New Sort and Filter Demo
+ Sort and Filter
